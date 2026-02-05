@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|c:\\users\\uxiap\\onedrive\\escritorio\\2\u00BAdam(25-26)\\serv\\ejercicio1bol6\\ejercicio1bol6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|solutionrelative:ejercicio1bol6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1bol6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|solutionrelative:ejercicio1bol6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1bol6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|solutionrelative:ejercicio1bol6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|c:\\users\\uxiap\\onedrive\\escritorio\\2\u00BAdam(25-26)\\serv\\ejercicio1bol6\\ejercicio1bol6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0543A0FA-0E36-4258-B069-89BEF0539029}|ejercicio1Bol6\\ejercicio1Bol6.csproj|solutionrelative:ejercicio1bol6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ejercicio1Bol6\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.Designer.cs",
+              "RelativeToolTip": "ejercicio1Bol6\\Form1.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:19:20.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio1Bol6\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.cs",
+              "RelativeToolTip": "ejercicio1Bol6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:26:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio1Bol6\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicio1Bol6\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:26:49.133Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio1Bol6\\Program.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(25-26)\\SERV\\ejercicio1Bol6\\ejercicio1Bol6\\Program.cs",
+              "RelativeToolTip": "ejercicio1Bol6\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:39:26.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
