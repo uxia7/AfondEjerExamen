@@ -42,6 +42,7 @@
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.Size = new System.Drawing.Size(100, 22);
             this.txtContraseña.TabIndex = 0;
+            this.txtContraseña.Text = "Contraseña";
             // 
             // lblResultado
             // 

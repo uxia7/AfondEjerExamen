@@ -1,0 +1,10 @@
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\bin\Release\ejercicio1Bol6.exe.config
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\bin\Release\ejercicio1Bol6.exe
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\bin\Release\ejercicio1Bol6.pdb
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.csproj.AssemblyReference.cache
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.Form1.resources
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.ServicioFechaHora.resources
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.csproj.GenerateResource.cache
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.csproj.CoreCompileInputs.cache
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.exe
+C:\Users\alumnoinfo\Desktop\ejercicio1Bol6\ejercicio1Bol6\obj\Release\ejercicio1Bol6.pdb

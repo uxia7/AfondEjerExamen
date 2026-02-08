@@ -57,7 +57,7 @@ namespace ejercicio1Bol6
             //no recibe lo que espera y no me funciona
         }
         
-        private void EnviarComando(string comando)
+        public void EnviarComando(string comando)
         {
             Thread hilo = new Thread(() =>
             {
@@ -73,7 +73,7 @@ namespace ejercicio1Bol6
                     NetworkStream ns = new NetworkStream(servidor);
                     StreamReader sr = new StreamReader(ns);
                     StreamWriter sw = new StreamWriter(ns);
-                    sw.AutoFlush = true;
+                    //sw.AutoFlush = true;
 
                     sw.WriteLine(comando);
                     string respuesta = sr.ReadLine();
@@ -89,7 +89,7 @@ namespace ejercicio1Bol6
                 {
                     Invoke(new Action(() =>
                     {
-                        lblResultado.Text = "Error de conexión";
+                        lblResultado.Text = "No se pudo conectar";
                     }));
                 }
             });
